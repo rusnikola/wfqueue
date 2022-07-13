@@ -1,0 +1,3 @@
+[submodule "lfqueue"]
+	path = source
+	url = https://github.com/rusnikola/lfqueue
